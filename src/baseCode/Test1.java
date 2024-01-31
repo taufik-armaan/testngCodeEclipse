@@ -2,7 +2,7 @@ package baseCode;
 
 public class Test1 {
 
-
+// added one line to the code for merging
 	public class StringConcept {
 
 		public static void main(String[] args) {
